@@ -49,11 +49,12 @@ console.log(me);
 
 <p>
    <a href="#"><img alt="JAVA" src="https://img.shields.io/badge/Java%20-%ED8B00?.svg?logo=openjdk&logoColor=white"></a>
-    <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?.svg?logo=typescript&logoColor=white"></a>
 </p>
 
 ## Frameworks and Libraries
