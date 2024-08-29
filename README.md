@@ -48,24 +48,13 @@ console.log(me);
 ## Programming Languages
 
 <p>
-    <a href="#"><img class="tech-badge" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-<a href="#"><img class="tech-badge" alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-<a href="#"><img class="tech-badge" alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-<a href="#"><img class="tech-badge" alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-<a href="#"><img class="tech-badge" alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<a href="#"><img class="tech-badge" alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+   <a href="#"><img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
 </p>
-<style>
-    .tech-badge {
-        width: 150px; /* Ajusta este valor al tamaño deseado */
-        height: 40px; /* Ajusta este valor al tamaño deseado */
-        object-fit: cover; /* Asegura que la imagen se ajuste bien al tamaño definido */
-        margin: 5px; /* Espacio entre botones */
-    }
-</style>
-
-	
-
 
 ## Frameworks and Libraries
 <p>
