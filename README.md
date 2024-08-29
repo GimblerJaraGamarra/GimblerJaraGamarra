@@ -98,7 +98,7 @@ console.log(me);
 ## Game Engine
 
 <p>
-        <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000.svg?logo=git&logoColor=white"></a>
+        <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000.svg?logo=unity&logoColor=white"></a>
 </p>
 
 ## Other
