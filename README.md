@@ -2,25 +2,39 @@
 
 ## Who am I?
 
- ```python
-  class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
-	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
-	
-	def getCity():
-		return Chhattisgarh_India()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
+ ```JavaScript
+  class WhoAmI {
+    constructor() {
+        this.user = 'Gimbler Jara Gamarra';
+        this.age = 29;
+        this.country = 'Peru';
+        this.currentEducation = 'Cibertec Student';
+        this.pastEducation = 'SENATI Graduate';
+        this.hobbies = [
+            'Driving Cars',
+            'Fixing Cars'
+        ];
+    }
+
+    getCity() {
+        return 'Peru';
+    }
+
+    ambitions() {
+        return [
+            'Become a Software Engineer',
+            'Finish My Projects'
+        ];
+    }
+
+    funFact() {
+        return 'I love cars!';
+    }
+}
+
+const me = new WhoAmI();
+console.log(me);
+
 	
  ```
 
