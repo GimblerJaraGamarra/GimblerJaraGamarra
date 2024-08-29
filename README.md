@@ -61,9 +61,9 @@ console.log(me);
 <p>
           <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    	  <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
-	  <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/Angular-DD0031?=logo=angular&logoColor=white"></a>
-	 <a href="#"><img alt="REACT" src="https://img.shields.io/badge/React-20232A?.svg?logo=react&logoColor=61DAFB"></a>
-	 <a href="#"><img alt="REACT" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></a>
+	  <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white"></a>
+	 <a href="#"><img alt="REACT" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"></a>
+	 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></a>
 </p>
 
 ## Operating Systems
