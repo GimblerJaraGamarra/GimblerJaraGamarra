@@ -43,14 +43,7 @@ const yo = new QuienSoy();
 console.log(yo);	
  ```
 
- 
-## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=jaydeep-yadav&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>|
-
-## Programming Languages
+## Lenguajes de Programación
 
 <p>
    <a href="#"><img alt="JAVA" src="https://img.shields.io/badge/Java%20-%ED8B00.svg?logo=openjdk&logoColor=white"></a>
@@ -71,14 +64,14 @@ console.log(yo);
 	 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></a>
 </p>
 
-## Operating Systems
+## Sistemas Operativos
 <p>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white"></a>
 	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000.svg?logo=apple&logoColor=white"></a>
 	
 </p>
 
-## Browsers
+## Navegadores
 <p>
 	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
@@ -86,7 +79,7 @@ console.log(yo);
 	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
 </p>
 
-## Databases and Cloud hosting
+## Bases de datos y alojamientos en la nube:
 
 <p>
     <a href="#"><img alt="MYSQL Pages" src="https://img.shields.io/badge/MySQL-005C84.svg?logo=mysql&logoColor=white"></a>
@@ -94,32 +87,27 @@ console.log(yo);
     <a href="#"><img alt="NETLIFY" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
 </p> 
 
-## Software and Tools
+## Software y  Herramientas:
 <p>
         <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
 </p>
 
-## Game Engine
+## Motor de video juegos:
 
 <p>
         <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000.svg?logo=unity&logoColor=white"></a>
 </p>
 
-## Other
+## Otros
 
 <p>
         <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346.svg?logo=microsoft-excel&logoColor=white"></a>
 	<a href="#"><img alt="PowerPiont" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A.svg?logo=microsoft-powerpoint&logoColor=white"></a>	
 </p>
 
-## Connect with Me
+## Estadísticas de Github
 
-
-
-
-
-
-------
-[Jaydeep-Yadav](https://github.com/jaydeep-yadav)
-Last Edited on - 11/10/2021
+<img src="https://github-readme-stats.vercel.app/api?username=jaydeep-yadav&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>|
