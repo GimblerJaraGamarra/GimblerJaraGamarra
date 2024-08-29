@@ -1,39 +1,39 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+<h1 align="center">Hola 👋  soy Gimbler / Desarrollador web  - Junior ✨ </h1> 
 
-## Who am I?
+##Sobre mi.
 
  ```JavaScript
-  class WhoAmI {
+ class QuienSoy {
     constructor() {
-        this.user = 'Gimbler Jara Gamarra';
-        this.age = 29;
-        this.country = 'Peru';
-        this.currentEducation = 'Cibertec Student';
-        this.pastEducation = 'SENATI Graduate';
-        this.hobbies = [
-            'Driving Cars',
-            'Fixing Cars'
+        this.usuario = 'Gimbler Jara Gamarra';
+        this.edad = 29;
+        this.pais = 'Perú';
+        this.educacionActual = 'Estudiante en Cibertec';
+        this.educacionPasada = 'Egresado de SENATI';
+        this.aficiones = [
+            'Conducir autos',
+            'Arreglar autos'
         ];
     }
 
-    getCity() {
-        return 'Peru';
+    obtenerCiudad() {
+        return 'Perú';
     }
 
-    ambitions() {
+    ambiciones() {
         return [
-            'Become a Software Engineer',
-            'Finish My Projects'
+            'Convertirme en Ingeniero de Software',
+            'Terminar mis proyectos'
         ];
     }
 
-    funFact() {
-        return 'I love cars!';
+    datoCurioso() {
+        return '¡Me encantan los autos!';
     }
 }
 
-const me = new WhoAmI();
-console.log(me);
+const yo = new QuienSoy();
+console.log(yo);
 
 	
  ```
