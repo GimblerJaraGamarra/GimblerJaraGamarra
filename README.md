@@ -49,7 +49,7 @@ console.log(me);
 
 <p>
    <a href="#"><img alt="JAVA" src="https://img.shields.io/badge/Java%20-%ED8B00?.svg?logo=openjdk&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -83,16 +83,28 @@ console.log(me);
 ## Databases and Cloud hosting
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/MySQL-005C84.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
-</p> h
+    <a href="#"><img alt="MYSQL Pages" src="https://img.shields.io/badge/MySQL-005C84.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="PowerPiont" src="https://img.shields.io/badge/Microsoft_SQL_Server.svg?logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="NETLIFY" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
+</p> 
 
 ## Software and Tools
 <p>
         <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+</p>
+
+## Game Engine
+
+<p>
+        <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000.svg?logo=git&logoColor=white"></a>
+</p>
+
+## Other
+
+<p>
+        <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346.svg?logo=git&logoColor=white"></a>
+	<a href="#"><img alt="PowerPiont" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A.svg?logo=intellij-idea&logoColor=white"></a>	
 </p>
 
 ## Connect with Me
@@ -110,6 +122,8 @@ console.log(me);
 <a href="https://x.com/jaragamarra"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 </p>
+
+
 
 ------
 [Jaydeep-Yadav](https://github.com/jaydeep-yadav)
