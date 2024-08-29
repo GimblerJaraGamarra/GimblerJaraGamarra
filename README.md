@@ -84,7 +84,7 @@ console.log(me);
 
 <p>
     <a href="#"><img alt="MYSQL Pages" src="https://img.shields.io/badge/MySQL-005C84.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="PowerPiont" src="https://img.shields.io/badge/Microsoft_SQL_Server.svg?logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft_SQL_Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
     <a href="#"><img alt="NETLIFY" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
 </p> 
 
