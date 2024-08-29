@@ -54,18 +54,19 @@ console.log(me);
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="REACT" src="https://img.shields.io/badge/React-20232A?.svg?logo=react&logoColor=61DAFB"></a>
 </p>
 
 ## Frameworks and Libraries
 <p>
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-   <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
+          <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
+   	  <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
+	  <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/Angular-DD0031?=logo=angular&logoColor=white"></a>
+	 <a href="#"><img alt="REACT" src="https://img.shields.io/badge/React-20232A?.svg?logo=react&logoColor=61DAFB"></a>
+	 <a href="#"><img alt="REACT" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></a>
 </p>
 
 ## Operating Systems
 <p>
-	<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"></a>
 	
