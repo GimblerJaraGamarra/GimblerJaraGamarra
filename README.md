@@ -43,7 +43,7 @@ const yo = new QuienSoy();
 console.log(yo);	
  ```
 
-## Lenguajes de Programación
+## Lenguajes de Programación:
 
 <p>
    <a href="#"><img alt="JAVA" src="https://img.shields.io/badge/Java%20-%ED8B00.svg?logo=openjdk&logoColor=white"></a>
@@ -55,7 +55,7 @@ console.log(yo);
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-## Frameworks and Libraries
+## Frameworks y Librerias:
 <p>
           <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    	  <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
@@ -64,14 +64,14 @@ console.log(yo);
 	 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></a>
 </p>
 
-## Sistemas Operativos
+## Sistemas Operativos:
 <p>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white"></a>
 	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000.svg?logo=apple&logoColor=white"></a>
 	
 </p>
 
-## Navegadores
+## Navegadores:
 <p>
 	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
